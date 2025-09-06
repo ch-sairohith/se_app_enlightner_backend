@@ -1,0 +1,35 @@
+--- Review for Bhagavad Gita - Chapter 9 ---
+
+ID: gita_chapter_9_verse_1, Name: The Most Confidential Knowledge: Introduction
+ID: gita_chapter_9_verse_2, Name: The King of Education: Characteristics of the Most Confidential Knowledge
+ID: gita_chapter_9_verse_3, Name: The Importance of Faith in Devotional Service
+ID: gita_chapter_9_verse_4, Name: The All-Pervasive Nature of the Supreme Lord
+ID: gita_chapter_9_verse_5, Name: The Mystic Opulence of the Supreme Lord
+ID: gita_chapter_9_verse_6, Name: Understanding the Lord's Presence Through Analogy
+ID: gita_chapter_9_verse_7, Name: Cyclic Manifestation and Dissolution of the Material World
+ID: gita_chapter_9_verse_8, Name: Cosmic Order Under Divine Will
+ID: gita_chapter_9_verse_9, Name: Krishna's Detachment from Material Actions
+ID: gita_chapter_9_verse_10, Name: Material Nature's Operation Under Divine Superintendence
+ID: gita_chapter_9_verse_11, Name: Derision of Krishna's Human Form
+ID: gita_chapter_9_verse_12, Name: Deluded Individuals and Demonic Nature
+ID: gita_chapter_9_verse_13, Name: Great Souls and Divine Nature
+ID: gita_chapter_9_verse_14, Name: Worship of the Supreme Lord by Great Souls
+ID: gita_chapter_9_verse_15, Name: Diverse Paths of Worship
+ID: gita_chapter_9_verse_16, Name: Krishna as the essence of Vedic sacrifice
+ID: gita_chapter_9_verse_17, Name: Krishna as the origin and essence of the universe and Vedas
+ID: gita_chapter_9_verse_18, Name: Krishna as the ultimate goal and sustainer
+ID: gita_chapter_9_verse_20, Name: Indirect Worship Through Vedic Rituals
+ID: gita_chapter_9_verse_21, Name: Fleeting Heavenly Pleasure and Return to Earth
+ID: gita_chapter_9_verse_22, Name: Divine Support for Devotees
+ID: gita_chapter_9_verse_23, Name: All Worship Ultimately Directed to Krishna
+ID: gita_chapter_9_verse_24, Name: Krsna as the Enjoyer of all Sacrifices
+ID: gita_chapter_9_verse_25, Name: The Destination Determined by Worship
+ID: gita_chapter_9_verse_26, Name: Krishna's Acceptance of Devotional Offerings
+ID: gita_chapter_9_verse_27, Name: Dedication of Actions to Krishna
+ID: gita_chapter_9_verse_28, Name: Liberation Through Renunciation and Devotion
+ID: gita_chapter_9_verse_29, Name: Krishna's Impartiality and Special Affection for Devotees
+ID: gita_chapter_9_verse_30, Name: The Saintliness of a Devotee Despite Abominable Actions
+ID: gita_chapter_9_verse_31, Name: The Righteousness and Peace Attained by a Devotee
+ID: gita_chapter_9_verse_32, Name: Eligibility for the Supreme Destination Regardless of Birth
+ID: gita_chapter_9_verse_33, Name: Superiority of Devotees in a Miserable World
+ID: gita_chapter_9_verse_34, Name: Constant Devotion as the Path to Liberation

@@ -1,0 +1,26 @@
+--- Review for Bhagavad Gita - Chapter 14 ---
+
+ID: gita_chapter_14_verse_1, Name: Supreme Wisdom and Perfection
+ID: gita_chapter_14_verse_2, Name: Attaining Transcendental Nature
+ID: gita_chapter_14_verse_3, Name: Source of Birth and Cosmic Manifestation
+ID: gita_chapter_14_verse_4, Name: The Supreme Personality of Godhead as the Seed-Giving Father
+ID: gita_chapter_14_verse_5, Name: Conditioning by the Three Modes of Material Nature
+ID: gita_chapter_14_verse_6, Name: The Mode of Goodness and its Conditioning Effect
+ID: gita_chapter_14_verse_7, Name: The Mode of Passion and its Binding Effect
+ID: gita_chapter_14_verse_8, Name: The Mode of Ignorance and its Delusional Effect
+ID: gita_chapter_14_verse_9, Name: The Influence of the Three Modes on Human Experience
+ID: gita_chapter_14_verse_10, Name: The Dynamic Interaction and Competition of the Three Modes
+ID: gita_chapter_14_verse_11, Name: Manifestations of Goodness: Illumination of the Body's Senses
+ID: gita_chapter_14_verse_12, Name: Manifestations of Passion: Greed, Desire, and Uncontrolled Activity
+ID: gita_chapter_14_verse_13, Name: Manifestation of Ignorance
+ID: gita_chapter_14_verse_14, Name: Death in the Mode of Goodness
+ID: gita_chapter_14_verse_15, Name: Death in the Modes of Passion and Ignorance
+ID: gita_chapter_14_verse_16, Name: Results of Actions in the Three Modes
+ID: gita_chapter_14_verse_17, Name: Development of Knowledge, Greed, and Foolishness from the Three Modes of Nature
+ID: gita_chapter_14_verse_18, Name: Destinies Based on the Three Modes of Nature
+ID: gita_chapter_14_verse_19, Name: Understanding the Transcendental Nature of the Supreme Lord
+ID: gita_chapter_14_verse_20, Name: Transcending the Three Modes and Achieving Immortality
+ID: gita_chapter_14_verse_21, Name: Arjuna's Inquiry about Transcending the Modes of Nature
+ID: gita_chapter_14_verse_22, Name: Characteristics of One Transcendental to the Modes of Nature
+ID: gita_chapter_14_verse_26, Name: Devotional Service as a Means to Transcendence
+ID: gita_chapter_14_verse_27, Name: Krishna as the Basis of Impersonal Brahman

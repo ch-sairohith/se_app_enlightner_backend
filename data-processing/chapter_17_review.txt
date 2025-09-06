@@ -1,0 +1,28 @@
+--- Review for Bhagavad Gita - Chapter 17 ---
+
+ID: gita_chapter_17_verse_1, Name: Faith of Those Who Reject Scriptural Regulations
+ID: gita_chapter_17_verse_2, Name: Three Kinds of Faith Based on Material Modes
+ID: gita_chapter_17_verse_3, Name: Faith Determined by One's Mode of Existence
+ID: gita_chapter_17_verse_4, Name: Different Types of Worship Based on Material Modes
+ID: gita_chapter_17_verse_5, Name: Demonic Austerities and Penances
+ID: gita_chapter_17_verse_6, Name: Consequences of Demonic Austerities
+ID: gita_chapter_17_verse_7, Name: Three Kinds of Food, Sacrifice, Austerity, and Charity
+ID: gita_chapter_17_verse_8, Name: Sattvic Foods and Their Benefits
+ID: gita_chapter_17_verse_9, Name: Rajasic Foods and Their Effects
+ID: gita_chapter_17_verse_10, Name: Tamasic Foods and Their Negative Impacts
+ID: gita_chapter_17_verse_11, Name: Sattvic Sacrifice: Duty Without Expectation
+ID: gita_chapter_17_verse_12, Name: Rajasic Sacrifice: Driven by Desire and Pride
+ID: gita_chapter_17_verse_14, Name: Austerities of the Body
+ID: gita_chapter_17_verse_15, Name: Austerity of Speech
+ID: gita_chapter_17_verse_16, Name: Austerities of the Mind
+ID: gita_chapter_17_verse_17, Name: Threefold Austerity in the Mode of Goodness
+ID: gita_chapter_17_verse_18, Name: Austerity in the Mode of Passion
+ID: gita_chapter_17_verse_19, Name: Penance and Austerity in the Mode of Ignorance
+ID: gita_chapter_17_verse_20, Name: Charity in the Mode of Goodness
+ID: gita_chapter_17_verse_21, Name: Charity in the Mode of Passion
+ID: gita_chapter_17_verse_22, Name: Charity in the Mode of Ignorance
+ID: gita_chapter_17_verse_23, Name: The Three Syllables: Om Tat Sat
+ID: gita_chapter_17_verse_24, Name: The Importance of Om in Transcendental Activities
+ID: gita_chapter_17_verse_25, Name: Performing Actions Without Desire for Material Results
+ID: gita_chapter_17_verse_26, Name: The Significance of 'Sat' in Devotional Activities
+ID: gita_chapter_17_verse_28, Name: The Ineffectiveness of Actions Without Faith

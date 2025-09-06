@@ -1,0 +1,74 @@
+--- Review for Bhagavad Gita - Chapter 2 ---
+
+ID: gita_chapter_2_verse_1, Name: Arjuna's Lament and Krishna's Compassionate Response
+ID: gita_chapter_2_verse_2, Name: Krishna Questions Arjuna's Unbecoming Lament
+ID: gita_chapter_2_verse_3, Name: Arjuna's Impotence and Cowardice
+ID: gita_chapter_2_verse_4, Name: Arjuna's Question about Fighting Bhisma and Drona
+ID: gita_chapter_2_verse_5, Name: The Superiority of Begging over Killing Teachers
+ID: gita_chapter_2_verse_6, Name: Uncertainty of Victory and the Consequences of Killing
+ID: gita_chapter_2_verse_7, Name: Arjuna's Plea for Guidance
+ID: gita_chapter_2_verse_8, Name: Arjuna's Inability to Overcome Grief
+ID: gita_chapter_2_verse_9, Name: Arjuna's Refusal to Fight and Silence
+ID: gita_chapter_2_verse_10, Name: Krishna's Consoling Words to Arjuna
+ID: gita_chapter_2_verse_11, Name: Krishna's Chastisement of Arjuna's Grief
+ID: gita_chapter_2_verse_12, Name: The Eternal Nature of the Self
+ID: gita_chapter_2_verse_13, Name: The Transmigration of the Soul
+ID: gita_chapter_2_verse_14, Name: Tolerating Happiness and Distress
+ID: gita_chapter_2_verse_15, Name: Eligibility for Liberation
+ID: gita_chapter_2_verse_16, Name: The Existence and Non-Existence of the Soul
+ID: gita_chapter_2_verse_17, Name: The Indestructible Nature of the Soul
+ID: gita_chapter_2_verse_18, Name: The Impermanence of the Body and the Eternity of the Soul
+ID: gita_chapter_2_verse_19, Name: The Illusion of Killing and Being Killed
+ID: gita_chapter_2_verse_20, Name: The Eternal Nature of the Soul
+ID: gita_chapter_2_verse_21, Name: The Indestructible Soul and Action
+ID: gita_chapter_2_verse_22, Name: The Soul's Transmigration Through Bodies
+ID: gita_chapter_2_verse_23, Name: The Soul's Indestructibility
+ID: gita_chapter_2_verse_24, Name: The Soul's Eternal and Unchanging Nature
+ID: gita_chapter_2_verse_25, Name: The Soul's Inconceivable Nature and the Absence of Grief
+ID: gita_chapter_2_verse_26, Name: The Soul's Perpetual Birth and Death, and the Absence of Reason for Lamentation
+ID: gita_chapter_2_verse_27, Name: The Inevitability of Birth and Death and the Duty to Act Without Lament
+ID: gita_chapter_2_verse_28, Name: The Unmanifested Nature of Being and the Absence of Reason for Sorrow
+ID: gita_chapter_2_verse_29, Name: The Astonishing Nature of the Soul
+ID: gita_chapter_2_verse_30, Name: The Eternity of the Soul and the Impermanence of the Body
+ID: gita_chapter_2_verse_31, Name: The Ksatriya's Duty in Righteous Warfare
+ID: gita_chapter_2_verse_32, Name: The Blessed Ksatriya Warrior
+ID: gita_chapter_2_verse_33, Name: Consequences of Avoiding Dharma
+ID: gita_chapter_2_verse_34, Name: Infamy Worse Than Death
+ID: gita_chapter_2_verse_35, Name: Cowardice and Loss of Prestige
+ID: gita_chapter_2_verse_36, Name: Enemies' Unkind Words and Scorn
+ID: gita_chapter_2_verse_37, Name: Death or Victory: Heavenly Reward or Earthly Kingdom
+ID: gita_chapter_2_verse_38, Name: Fighting Without Attachment to Outcomes
+ID: gita_chapter_2_verse_39, Name: Sankhya and Yoga: Release from Karmic Bondage
+ID: gita_chapter_2_verse_40, Name: No Loss in Devotional Service
+ID: gita_chapter_2_verse_41, Name: Resolute Intelligence in Krsna Consciousness
+ID: gita_chapter_2_verse_42, Name: Misunderstanding of Vedic Teachings
+ID: gita_chapter_2_verse_43, Name: Desire for Sense Gratification and Opulence
+ID: gita_chapter_2_verse_44, Name: Obstruction to Devotional Service
+ID: gita_chapter_2_verse_45, Name: Transcending the Three Modes of Material Nature
+ID: gita_chapter_2_verse_46, Name: The Essence of Vedic Knowledge
+ID: gita_chapter_2_verse_47, Name: Duty vs. Results of Action
+ID: gita_chapter_2_verse_48, Name: Steadfastness in Yoga and Evenness of Mind
+ID: gita_chapter_2_verse_49, Name: Discarding Fruitive Activities Through Devotion
+ID: gita_chapter_2_verse_50, Name: Liberation from Good and Bad Actions Through Devotional Service
+ID: gita_chapter_2_verse_51, Name: Liberation from the Cycle of Birth and Death through Renunciation
+ID: gita_chapter_2_verse_52, Name: Transcending Delusion and Indifference to Vedic Rituals
+ID: gita_chapter_2_verse_53, Name: Attaining Yoga through Steadfast Intelligence
+ID: gita_chapter_2_verse_54, Name: Symptoms of One Merged in Transcendence
+ID: gita_chapter_2_verse_55, Name: Characteristics of One in Pure Transcendental Consciousness
+ID: gita_chapter_2_verse_56, Name: Qualities of a Sage of Steady Mind
+ID: gita_chapter_2_verse_57, Name: Characteristics of One with Established Wisdom
+ID: gita_chapter_2_verse_58, Name: Controlling the Senses Like a Tortoise
+ID: gita_chapter_2_verse_59, Name: Higher Taste Transcending Sense Enjoyment
+ID: gita_chapter_2_verse_60, Name: The Impetuous Senses and the Mind
+ID: gita_chapter_2_verse_61, Name: Subjugation of Senses through Krsna Consciousness
+ID: gita_chapter_2_verse_62, Name: The Path of Sense Gratification and its Consequences
+ID: gita_chapter_2_verse_63, Name: The Descent into Materiality: Delusion, Memory Loss, and the Loss of Intelligence
+ID: gita_chapter_2_verse_64, Name: Attaining Mercy Through Controlled Senses and Regulated Freedom
+ID: gita_chapter_2_verse_65, Name: Overcoming Material Miseries Through Divine Consciousness
+ID: gita_chapter_2_verse_66, Name: The Importance of Krishna Consciousness for Peace and Happiness
+ID: gita_chapter_2_verse_67, Name: The Destructive Power of Uncontrolled Senses
+ID: gita_chapter_2_verse_68, Name: Steady Intelligence Through Sense Restraint
+ID: gita_chapter_2_verse_69, Name: The Contrast Between Material and Spiritual Awakening
+ID: gita_chapter_2_verse_70, Name: Finding Peace by Transcending Desire
+ID: gita_chapter_2_verse_71, Name: Attaining Peace Through Desirelessness
+ID: gita_chapter_2_verse_72, Name: The Spiritual Life and Liberation at Death

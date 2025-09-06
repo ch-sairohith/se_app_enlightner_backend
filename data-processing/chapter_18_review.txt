@@ -1,0 +1,76 @@
+--- Review for Bhagavad Gita - Chapter 18 ---
+
+ID: gita_chapter_18_verse_1, Name: Arjuna's Inquiry about Renunciation and the Renounced Order
+ID: gita_chapter_18_verse_2, Name: Krishna's Definition of Renunciation and the Renounced Order
+ID: gita_chapter_18_verse_3, Name: Different Opinions on What Constitutes Renunciation
+ID: gita_chapter_18_verse_4, Name: Krishna's Clarification on the Three Types of Renunciation
+ID: gita_chapter_18_verse_5, Name: Renunciation and the Modes of Material Nature
+ID: gita_chapter_18_verse_6, Name: Performing Actions Without Attachment to Results
+ID: gita_chapter_18_verse_7, Name: The Undesirability of Renouncing Prescribed Duties
+ID: gita_chapter_18_verse_8, Name: Renunciation Driven by Fear or Trouble
+ID: gita_chapter_18_verse_9, Name: Renunciation in the Mode of Goodness
+ID: gita_chapter_18_verse_10, Name: Renunciation of Attachment to Actions
+ID: gita_chapter_18_verse_11, Name: The Impossibility of Complete Renunciation of Action
+ID: gita_chapter_18_verse_12, Name: Fruits of Action for the Renounced and Unrenounced
+ID: gita_chapter_18_verse_13, Name: Five Factors in the Accomplishment of Action
+ID: gita_chapter_18_verse_15, Name: Five Causes of Actions (Right and Wrong)
+ID: gita_chapter_18_verse_17, Name: The Unburdened Warrior: Action Without Attachment
+ID: gita_chapter_18_verse_18, Name: The Threefold Basis of Action: Knower, Knowledge, and Object
+ID: gita_chapter_18_verse_19, Name: Threefold Classification of Knowledge, Action, and Actors based on Gunas
+ID: gita_chapter_18_verse_20, Name: Sattvic Knowledge: Perceiving the Unified Spirit
+ID: gita_chapter_18_verse_21, Name: Further elaboration on Sattvic Knowledge
+ID: gita_chapter_18_verse_22, Name: Knowledge in the Mode of Darkness
+ID: gita_chapter_18_verse_23, Name: Action in the Mode of Goodness
+ID: gita_chapter_18_verse_24, Name: Action in the Mode of Passion
+ID: gita_chapter_18_verse_25, Name: Action in the Mode of Ignorance
+ID: gita_chapter_18_verse_26, Name: The Worker in the Mode of Goodness
+ID: gita_chapter_18_verse_27, Name: Characteristics of a Worker in the Mode of Passion
+ID: gita_chapter_18_verse_28, Name: Characteristics of a Worker in the Mode of Ignorance
+ID: gita_chapter_18_verse_29, Name: Three Kinds of Understanding and Determination
+ID: gita_chapter_18_verse_30, Name: Understanding in the Mode of Goodness
+ID: gita_chapter_18_verse_31, Name: Understanding in the Mode of Passion
+ID: gita_chapter_18_verse_32, Name: Misunderstanding Dharma and Adharma in the Mode of Ignorance
+ID: gita_chapter_18_verse_33, Name: Determination in the Mode of Goodness
+ID: gita_chapter_18_verse_34, Name: Determination in the Mode of Passion
+ID: gita_chapter_18_verse_35, Name: Determination in the Mode of Ignorance (Negative)
+ID: gita_chapter_18_verse_36, Name: Three Kinds of Happiness
+ID: gita_chapter_18_verse_38, Name: The Nature of Happiness in the Mode of Passion
+ID: gita_chapter_18_verse_39, Name: The Nature of Happiness in the Mode of Ignorance
+ID: gita_chapter_18_verse_40, Name: No Being Free from the Three Modes of Material Nature
+ID: gita_chapter_18_verse_41, Name: Division of Activities Based on Social Class and Nature
+ID: gita_chapter_18_verse_42, Name: Qualities of Work for Brahmanas
+ID: gita_chapter_18_verse_43, Name: Qualities of Work for Ksatriyas
+ID: gita_chapter_18_verse_44, Name: Qualities of Work for Vaisyas and Sudras
+ID: gita_chapter_18_verse_45, Name: Perfection Through Dedicated Work
+ID: gita_chapter_18_verse_46, Name: Attaining Perfection Through Worship of the Supreme Lord
+ID: gita_chapter_18_verse_47, Name: The Superiority of Performing One's Own Duty
+ID: gita_chapter_18_verse_48, Name: Not Abandoning One's Natural Work Despite Flaws
+ID: gita_chapter_18_verse_49, Name: Achieving Perfection Through Renunciation and Self-Control
+ID: gita_chapter_18_verse_50, Name: Attaining the Supreme Perfectional Stage
+ID: gita_chapter_18_verse_51, Name: Qualities of one on the path to Self-Realization (Part 1)
+ID: gita_chapter_18_verse_52, Name: Qualities of one on the path to Self-Realization (Part 2)
+ID: gita_chapter_18_verse_53, Name: Qualities of one on the path to Self-Realization (Part 3)
+ID: gita_chapter_18_verse_54, Name: The State of Brahma-bhuta
+ID: gita_chapter_18_verse_55, Name: Understanding the Supreme Personality through Devotion
+ID: gita_chapter_18_verse_56, Name: Attaining the Eternal Abode through Divine Protection
+ID: gita_chapter_18_verse_57, Name: Constant Consciousness and Devotional Service
+ID: gita_chapter_18_verse_58, Name: Overcoming Obstacles Through Krsna Consciousness
+ID: gita_chapter_18_verse_59, Name: False Ego and Compelled Action
+ID: gita_chapter_18_verse_60, Name: Acting Under the Compulsion of Nature
+ID: gita_chapter_18_verse_61, Name: The Supreme Lord's Direction from Within
+ID: gita_chapter_18_verse_62, Name: Surrender to the Supreme Personality of Godhead
+ID: gita_chapter_18_verse_63, Name: The Most Confidential Knowledge
+ID: gita_chapter_18_verse_64, Name: Supreme Instruction for a Dear Friend
+ID: gita_chapter_18_verse_65, Name: Always Think of Me
+ID: gita_chapter_18_verse_66, Name: Renounce All Duties and Surrender to Me
+ID: gita_chapter_18_verse_67, Name: Confidentiality of Bhagavad Gita's Knowledge
+ID: gita_chapter_18_verse_68, Name: Blessings for Explaining the Supreme Secret
+ID: gita_chapter_18_verse_69, Name: The Most Dear Servant
+ID: gita_chapter_18_verse_70, Name: The Value of Studying the Bhagavad Gita
+ID: gita_chapter_18_verse_71, Name: Benefits of Listening to the Bhagavad Gita with Faith
+ID: gita_chapter_18_verse_72, Name: Arjuna's Understanding of the Bhagavad Gita
+ID: gita_chapter_18_verse_73, Name: Arjuna's Surrender and Readiness to Act
+ID: gita_chapter_18_verse_74, Name: Sanjaya's Account of Krishna and Arjuna's Conversation
+ID: gita_chapter_18_verse_75, Name: Sanjaya's Hearing of the Confidential Teachings
+ID: gita_chapter_18_verse_76, Name: Sanjaya's Repeated Joy in Recalling the Dialogue
+ID: gita_chapter_18_verse_77, Name: Sanjaya's Wonder at Krishna's Universal Form

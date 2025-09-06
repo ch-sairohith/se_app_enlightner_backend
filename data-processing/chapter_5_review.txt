@@ -1,0 +1,31 @@
+--- Review for Bhagavad Gita - Chapter 5 ---
+
+ID: gita_chapter_5_verse_1, Name: Arjuna's Question on Renunciation and Devotional Service
+ID: gita_chapter_5_verse_2, Name: The Lord's Response: Karma-Yoga Superior to Renunciation
+ID: gita_chapter_5_verse_3, Name: The Characteristics of a True Renouncer
+ID: gita_chapter_5_verse_4, Name: The Unity of Sankhya and Karma Yoga
+ID: gita_chapter_5_verse_5, Name: The Equivalence of Sankhya and Yoga
+ID: gita_chapter_5_verse_6, Name: The Importance of Devotional Service in Renunciation
+ID: gita_chapter_5_verse_7, Name: The Unentangled Yogi
+ID: gita_chapter_5_verse_8, Name: The Divine Consciousness and Action
+ID: gita_chapter_5_verse_9, Name: The Divine Consciousness and Action (continued)
+ID: gita_chapter_5_verse_10, Name: Action without Attachment
+ID: gita_chapter_5_verse_11, Name: Yogis and Self-Purification
+ID: gita_chapter_5_verse_12, Name: Attaining Peace Through Devotional Service
+ID: gita_chapter_5_verse_13, Name: Happiness Through Mental Renunciation
+ID: gita_chapter_5_verse_14, Name: The Modes of Nature and Actions
+ID: gita_chapter_5_verse_15, Name: The Supreme Lord and the Fruits of Action
+ID: gita_chapter_5_verse_16, Name: Overcoming Nescience through Knowledge
+ID: gita_chapter_5_verse_17, Name: Attaining Liberation through Supreme Devotion
+ID: gita_chapter_5_verse_18, Name: Equanimity of Vision in a Transcendentalist
+ID: gita_chapter_5_verse_19, Name: Conquering Birth and Death Through Equanimity
+ID: gita_chapter_5_verse_20, Name: Characteristics of a Self-Realized Person
+ID: gita_chapter_5_verse_21, Name: Joy in Self Through Brahman Yoga
+ID: gita_chapter_5_verse_22, Name: Enjoyment Derived from Sense Contact
+ID: gita_chapter_5_verse_23, Name: Overcoming Material Urges for Happiness
+ID: gita_chapter_5_verse_24, Name: Inner Happiness and Liberation
+ID: gita_chapter_5_verse_25, Name: Liberation Through Self-Realization and Welfare
+ID: gita_chapter_5_verse_26, Name: Liberation for those Free from Desire and Anger
+ID: gita_chapter_5_verse_27, Name: Controlling the Senses Through Yogic Practices
+ID: gita_chapter_5_verse_28, Name: Liberation Through Mind Control and Freedom from Negative Emotions
+ID: gita_chapter_5_verse_29, Name: Attaining Peace Through Knowledge of Krishna

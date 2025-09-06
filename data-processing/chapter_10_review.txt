@@ -1,0 +1,44 @@
+--- Review for Bhagavad Gita - Chapter 10 ---
+
+ID: gita_chapter_10_verse_1, Name: The Supreme Lord's Address to Arjuna: A Promise of Supreme Knowledge
+ID: gita_chapter_10_verse_2, Name: The Unknowable Origin of the Supreme Lord
+ID: gita_chapter_10_verse_3, Name: Liberation Through Knowledge of the Supreme Lord
+ID: gita_chapter_10_verse_4, Name: Qualities Emanating from Krishna
+ID: gita_chapter_10_verse_5, Name: Further Explanation of Qualities from Krishna
+ID: gita_chapter_10_verse_6, Name: Genealogy of Universal Population
+ID: gita_chapter_10_verse_7, Name: Knowledge of God's Glory Leads to Devotion
+ID: gita_chapter_10_verse_8, Name: Source of All Worlds and Devotion
+ID: gita_chapter_10_verse_9, Name: Characteristics of Pure Devotees
+ID: gita_chapter_10_verse_10, Name: Divine Grace and Understanding
+ID: gita_chapter_10_verse_11, Name: Lord Krishna's Compassionate Dispelling of Ignorance
+ID: gita_chapter_10_verse_12, Name: Arjuna's Declaration of Krishna's Supreme Nature
+ID: gita_chapter_10_verse_13, Name: Arjuna's Continued Declaration and Vedic Confirmation of Krishna's Supremacy
+ID: gita_chapter_10_verse_14, Name: Arjuna's Acceptance of Krishna's Teachings
+ID: gita_chapter_10_verse_15, Name: Krishna's Self-Knowledge and Supreme Nature
+ID: gita_chapter_10_verse_16, Name: Request for Explanation of Divine Powers
+ID: gita_chapter_10_verse_17, Name: How to Meditate on Krishna
+ID: gita_chapter_10_verse_18, Name: Arjuna's Request for Detailed Description of Krishna's Potencies
+ID: gita_chapter_10_verse_19, Name: Krishna's Response Regarding His Limitless Opulence
+ID: gita_chapter_10_verse_20, Name: Krishna as the Self, the Beginning, Middle, and End of All Beings
+ID: gita_chapter_10_verse_21, Name: Krishna's Manifestations in the Cosmos
+ID: gita_chapter_10_verse_22, Name: Krishna's Identity in the Vedas and among Beings
+ID: gita_chapter_10_verse_23, Name: Krishna's Manifestations among Rudras, Yaksas, Vasus, and Mountains
+ID: gita_chapter_10_verse_24, Name: Krishna's Representation among Priests, Commanders, and Bodies of Water
+ID: gita_chapter_10_verse_25, Name: Krishna's Manifestations among Sages, Vibrations, Sacrifices, and Immovable Things
+ID: gita_chapter_10_verse_26, Name: Krishna's Manifestations among Trees, Sages, Singers, and Perfected Beings
+ID: gita_chapter_10_verse_27, Name: Krishna's Manifestations among Horses, Elephants, and Human Kings
+ID: gita_chapter_10_verse_28, Name: Krishna's Manifestations in Weapons, Cows, Procreators, and Serpents
+ID: gita_chapter_10_verse_29, Name: Krishna's Manifestations in Celestial Serpents, Aquatic Deities, Ancestors, and Dispensers of Law
+ID: gita_chapter_10_verse_30, Name: Krishna's Manifestations in Demons, Subduers, Animals, and Birds
+ID: gita_chapter_10_verse_31, Name: Krishna's Manifestations in Purifiers, Weapon Bearers, Fishes, and Rivers
+ID: gita_chapter_10_verse_32, Name: Krishna's Manifestations as the Beginning, Middle, and End of Creation and Knowledge
+ID: gita_chapter_10_verse_33, Name: Krishna as the Foundation of Language and Creation
+ID: gita_chapter_10_verse_34, Name: Krishna as Death, Generation, and Feminine Qualities
+ID: gita_chapter_10_verse_35, Name: Krishna as Hymns, Poetry, Months, and Seasons
+ID: gita_chapter_10_verse_36, Name: Krishna as Gambling, Splendor, Victory, and Strength
+ID: gita_chapter_10_verse_37, Name: Krishna's Manifestations Among Different Groups
+ID: gita_chapter_10_verse_38, Name: Krishna as the Embodiment of Disciplinary Forces
+ID: gita_chapter_10_verse_39, Name: Krishna as the Seed of All Existence
+ID: gita_chapter_10_verse_40, Name: The Limitless Nature of Krishna's Divine Manifestations
+ID: gita_chapter_10_verse_41, Name: Origin of Glorious Creations in Krishna's Splendor
+ID: gita_chapter_10_verse_42, Name: Krishna's Pervasive Presence in the Universe

@@ -1,0 +1,46 @@
+--- Review for Bhagavad Gita - Chapter 6 ---
+
+ID: gita_chapter_6_verse_1, Name: The Definition of a True Sannyasi and Yogi
+ID: gita_chapter_6_verse_2, Name: Renunciation and Yoga: The Path to Transcendence
+ID: gita_chapter_6_verse_3, Name: Work and Cessation of Activity in the Yogic Path
+ID: gita_chapter_6_verse_4, Name: Attaining Yoga Through Renunciation of Material Desires
+ID: gita_chapter_6_verse_5, Name: Self-Elevation Through Mind Control
+ID: gita_chapter_6_verse_6, Name: The Mind as Friend or Enemy
+ID: gita_chapter_6_verse_7, Name: Attaining Tranquility and Union with the Supersoul
+ID: gita_chapter_6_verse_8, Name: Characteristics of the Self-Realized Soul
+ID: gita_chapter_6_verse_9, Name: Equanimity Towards All Beings
+ID: gita_chapter_6_verse_10, Name: Practice of Yoga in Seclusion
+ID: gita_chapter_6_verse_13, Name: Posture and Gaze in Yoga Meditation
+ID: gita_chapter_6_verse_14, Name: Mental Focus and Devotion in Yoga
+ID: gita_chapter_6_verse_15, Name: Attaining Peace and the Spiritual Abode
+ID: gita_chapter_6_verse_16, Name: Requirements for Yoga Practice: Diet and Sleep
+ID: gita_chapter_6_verse_17, Name: Mitigation of Material Pains through Regulated Lifestyle
+ID: gita_chapter_6_verse_18, Name: Attaining Yoga through Disciplined Mind and Transcendence
+ID: gita_chapter_6_verse_19, Name: Steadfastness in Meditation
+ID: gita_chapter_6_verse_20, Name: The State of Samadhi: Restrained Mind and Self-Realization
+ID: gita_chapter_6_verse_21, Name: Boundless Transcendental Happiness in Samadhi
+ID: gita_chapter_6_verse_22, Name: Unshakeable in the Face of Difficulty
+ID: gita_chapter_6_verse_23, Name: Yoga Defined as Freedom from Material Suffering
+ID: gita_chapter_6_verse_24, Name: Undefined - Text continues
+ID: gita_chapter_6_verse_25, Name: Gradual Stilling of the Mind
+ID: gita_chapter_6_verse_26, Name: Controlling the Wandering Mind
+ID: gita_chapter_6_verse_27, Name: Highest Happiness Through Mind Control
+ID: gita_chapter_6_verse_28, Name: Attaining Bliss Through Yoga Practice
+ID: gita_chapter_6_verse_29, Name: The Vision of the Yogi: Seeing Krishna in All Beings
+ID: gita_chapter_6_verse_30, Name: The Unbreakable Bond: Seeing Krishna and Being Seen by Krishna
+ID: gita_chapter_6_verse_31, Name: The Yogi's Constant Union with Krishna
+ID: gita_chapter_6_verse_32, Name: The Perfect Yogi's Vision of Equality
+ID: gita_chapter_6_verse_33, Name: Arjuna's Doubt about the Practicability of Yoga
+ID: gita_chapter_6_verse_34, Name: The Restless and Turbulent Mind
+ID: gita_chapter_6_verse_35, Name: Subduing the Mind Through Practice and Detachment
+ID: gita_chapter_6_verse_36, Name: Difficulty of Self-Realization without Mind Control
+ID: gita_chapter_6_verse_37, Name: Fate of the Unpersevering Transcendentalist
+ID: gita_chapter_6_verse_38, Name: Perishing Like a Scattered Cloud
+ID: gita_chapter_6_verse_39, Name: Arjuna's Doubt about the Fate of Unsuccessful Transcendentalists
+ID: gita_chapter_6_verse_40, Name: Krishna's Assurance: No Destruction for the Auspicious
+ID: gita_chapter_6_verse_41, Name: Rebirth of the Unsuccessful Yogi
+ID: gita_chapter_6_verse_43, Name: Revival of Divine Consciousness through Favorable Birth
+ID: gita_chapter_6_verse_44, Name: Attraction to Yogic Principles through Past Practice
+ID: gita_chapter_6_verse_45, Name: Attaining the Supreme Goal Through Persistent Practice
+ID: gita_chapter_6_verse_46, Name: The Yogi's Superiority
+ID: gita_chapter_6_verse_47, Name: The Highest Yogi: Abiding in Krishna with Faith

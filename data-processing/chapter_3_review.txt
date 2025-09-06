@@ -1,0 +1,45 @@
+--- Review for Bhagavad Gita - Chapter 3 ---
+
+ID: gita_chapter_3_verse_1, Name: Arjuna's Question about Warfare and Intelligence
+ID: gita_chapter_3_verse_2, Name: Arjuna's Plea for Clear Instruction
+ID: gita_chapter_3_verse_3, Name: Two Paths to Self-Realization
+ID: gita_chapter_3_verse_4, Name: Inaction and Renunciation Don't Lead to Perfection
+ID: gita_chapter_3_verse_5, Name: The Inevitability of Action
+ID: gita_chapter_3_verse_6, Name: The Deception of Mindful Inaction
+ID: gita_chapter_3_verse_7, Name: Superiority of Devoted Action
+ID: gita_chapter_3_verse_8, Name: The Necessity of Prescribed Duty
+ID: gita_chapter_3_verse_9, Name: The Purpose of Work: Sacrifice for Vishnu
+ID: gita_chapter_3_verse_10, Name: Creation and the Blessing of Yajna
+ID: gita_chapter_3_verse_11, Name: Mutual Pleasing Through Sacrifice: Prosperity for All
+ID: gita_chapter_3_verse_12, Name: The Reciprocal Relationship Between Humans and Demigods through Yajna
+ID: gita_chapter_3_verse_13, Name: The Purification Achieved through Partaking in Yajna Offerings
+ID: gita_chapter_3_verse_14, Name: The Cosmic Cycle of Yajna: From Duty to Sustenance
+ID: gita_chapter_3_verse_15, Name: Origin of Karma and the Vedas
+ID: gita_chapter_3_verse_16, Name: Consequences of Neglecting Vedic Sacrifice
+ID: gita_chapter_3_verse_17, Name: The Duty of the Self-Satisfied
+ID: gita_chapter_3_verse_18, Name: The Self-Realized Man's Lack of Obligation
+ID: gita_chapter_3_verse_19, Name: Performing Duty Without Attachment
+ID: gita_chapter_3_verse_20, Name: Kings Attaining Perfection Through Duty; Example for the People
+ID: gita_chapter_3_verse_21, Name: Leadership by Example
+ID: gita_chapter_3_verse_22, Name: Krishna's Engagement in Work Despite Lack of Need
+ID: gita_chapter_3_verse_23, Name: The Importance of Krishna's Actions for Humanity's Example
+ID: gita_chapter_3_verse_24, Name: Consequences of Krishna's Inaction: Societal Ruin
+ID: gita_chapter_3_verse_25, Name: The Difference Between Actions of the Ignorant and the Wise
+ID: gita_chapter_3_verse_26, Name: Guidance for Engaging the Ignorant in Devotional Service
+ID: gita_chapter_3_verse_27, Name: The Illusion of the Doer in Material Activities
+ID: gita_chapter_3_verse_28, Name: The Knower of the Absolute Truth and Detachment from Material Senses
+ID: gita_chapter_3_verse_29, Name: Dealing with the Materially Bewildered
+ID: gita_chapter_3_verse_30, Name: Surrendering Actions to Krishna for Liberation
+ID: gita_chapter_3_verse_31, Name: Liberation Through Faithful Execution of Krishna's Injunctions
+ID: gita_chapter_3_verse_32, Name: Consequences of Disregarding Krishna's Teachings
+ID: gita_chapter_3_verse_33, Name: The Limitations of Repression and the Power of Nature
+ID: gita_chapter_3_verse_34, Name: Attachment and Aversion in the Senses
+ID: gita_chapter_3_verse_35, Name: Superiority of Performing One's Own Duty
+ID: gita_chapter_3_verse_36, Name: Impulsion to Sinful Acts
+ID: gita_chapter_3_verse_37, Name: Lust as the Root of Sinful Activities
+ID: gita_chapter_3_verse_38, Name: Lust Obscuring Consciousness: Analogies of Smoke, Dust, and the Womb
+ID: gita_chapter_3_verse_39, Name: Lust as an Eternal Enemy, Obscuring Pure Consciousness
+ID: gita_chapter_3_verse_40, Name: Lust's Location: Senses, Mind, and Intelligence
+ID: gita_chapter_3_verse_41, Name: Regulating the Senses to Curb Lust
+ID: gita_chapter_3_verse_42, Name: Hierarchy of Consciousness: Senses, Mind, Intelligence, and Soul
+ID: gita_chapter_3_verse_43, Name: Conquering Lust Through Higher Consciousness

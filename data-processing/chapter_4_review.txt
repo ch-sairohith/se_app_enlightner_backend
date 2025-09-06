@@ -1,0 +1,44 @@
+--- Review for Bhagavad Gita - Chapter 4 ---
+
+ID: gita_chapter_4_verse_1, Name: Transmission of the Bhagavad Gita through Disciplic Succession
+ID: gita_chapter_4_verse_2, Name: Loss of the Bhagavad Gita's Original Understanding
+ID: gita_chapter_4_verse_3, Name: Revealing the Ancient Yoga to Arjuna
+ID: gita_chapter_4_verse_4, Name: Arjuna's Question about Krishna's Prior Instruction to Vivasvan
+ID: gita_chapter_4_verse_5, Name: Krishna's Response Regarding Past Births and Memory
+ID: gita_chapter_4_verse_6, Name: The Lord's Eternal Nature and Incarnations
+ID: gita_chapter_4_verse_7, Name: The Lord's Descent to Restore Dharma
+ID: gita_chapter_4_verse_9, Name: Liberation through Knowledge of Krishna's Nature
+ID: gita_chapter_4_verse_10, Name: Many Purified Souls Attain Love for Krishna
+ID: gita_chapter_4_verse_11, Name: Divine Reciprocation and Paths to Krishna
+ID: gita_chapter_4_verse_12, Name: Fruitive Activities and Worship of Demigods
+ID: gita_chapter_4_verse_13, Name: The Creation of the Fourfold Varna System
+ID: gita_chapter_4_verse_14, Name: The Lord's Impartiality and the Liberation from Karma
+ID: gita_chapter_4_verse_15, Name: Following the Example of Liberated Souls
+ID: gita_chapter_4_verse_16, Name: Distinguishing Action and Inaction
+ID: gita_chapter_4_verse_17, Name: Understanding the Intricacies of Action
+ID: gita_chapter_4_verse_18, Name: The Intelligent Person in Action and Inaction
+ID: gita_chapter_4_verse_19, Name: The Characteristics of a Learned Person
+ID: gita_chapter_4_verse_20, Name: Performing Actions Without Attachment to Results
+ID: gita_chapter_4_verse_21, Name: Acting Without Sinful Reactions
+ID: gita_chapter_4_verse_22, Name: The Characteristics of a Person Free from Entanglement
+ID: gita_chapter_4_verse_23, Name: The Dissolution of Karma for the Unattached
+ID: gita_chapter_4_verse_24, Name: The Perfection of Krsna Consciousness and Attaining the Spiritual Kingdom
+ID: gita_chapter_4_verse_25, Name: Different Types of Sacrifices and Worship
+ID: gita_chapter_4_verse_26, Name: Sacrificing the Senses and Sense Objects
+ID: gita_chapter_4_verse_27, Name: Offering Sense Functions and Vital Force in the Fire of Controlled Mind
+ID: gita_chapter_4_verse_28, Name: Various Types of Sacrifices for Spiritual Advancement
+ID: gita_chapter_4_verse_29, Name: Breath Control and Trance Through Pranayama
+ID: gita_chapter_4_verse_30, Name: Liberation through Sacrifice
+ID: gita_chapter_4_verse_31, Name: The Necessity of Sacrifice for Happiness
+ID: gita_chapter_4_verse_32, Name: Liberation through Understanding Diverse Sacrifices
+ID: gita_chapter_4_verse_33, Name: Superiority of the Sacrifice of Knowledge
+ID: gita_chapter_4_verse_34, Name: Acquiring Knowledge Through Devotion and Inquiry
+ID: gita_chapter_4_verse_35, Name: Attaining Knowledge and Understanding the Unity of All Beings
+ID: gita_chapter_4_verse_36, Name: Transcendental Knowledge as a Means to Overcome Sin
+ID: gita_chapter_4_verse_37, Name: Knowledge as a Burning Fire that Consumes Reactions to Actions
+ID: gita_chapter_4_verse_38, Name: The Purity of Transcendental Knowledge
+ID: gita_chapter_4_verse_39, Name: Attaining Supreme Peace Through Faith and Sense Control
+ID: gita_chapter_4_verse_40, Name: The Fate of the Ignorant and Faithless
+ID: gita_chapter_4_verse_41, Name: Liberation from the Bonds of Karma Through Knowledge and Self-Realization
+ID: gita_chapter_4_verse_42, Name: Conquering Doubt Through Knowledge and Yoga
+ID: gita_chapter_4_verse_1, Name: Arjuna's Question on Renunciation and Yoga

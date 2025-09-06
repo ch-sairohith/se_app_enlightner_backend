@@ -1,0 +1,30 @@
+--- Review for Bhagavad Gita - Chapter 8 ---
+
+ID: gita_chapter_8_verse_1, Name: Arjuna's Inquiry about Brahman, the Self, Karma, Material Manifestation, and Demigods
+ID: gita_chapter_8_verse_2, Name: Arjuna's Question about the Lord's Abode in the Body and Knowing Him at Death
+ID: gita_chapter_8_verse_3, Name: The Supreme Lord's Definition of Brahman, the Self, and Karma
+ID: gita_chapter_8_verse_4, Name: The Composition of the Embodied Being
+ID: gita_chapter_8_verse_5, Name: Attaining Liberation Through Remembrance of Krishna
+ID: gita_chapter_8_verse_6, Name: The State of Being at Death Determines the Next Life
+ID: gita_chapter_8_verse_7, Name: Always Remember Krishna While Performing Duty
+ID: gita_chapter_8_verse_8, Name: Achieving the Supreme Through Meditation
+ID: gita_chapter_8_verse_9, Name: Meditation on the Supreme Person's Qualities
+ID: gita_chapter_8_verse_10, Name: Attaining the Supreme Lord at the Time of Death
+ID: gita_chapter_8_verse_11, Name: The Path to Salvation through Brahman
+ID: gita_chapter_8_verse_12, Name: Yogic Practice: Controlling the Senses
+ID: gita_chapter_8_verse_13, Name: Liberation through Om and Remembrance of Krishna
+ID: gita_chapter_8_verse_14, Name: Attaining Krishna through Constant Remembrance
+ID: gita_chapter_8_verse_15, Name: Liberation and Non-Return to the Material World
+ID: gita_chapter_8_verse_16, Name: Liberation from Repeated Birth and Death
+ID: gita_chapter_8_verse_17, Name: Brahma's Day and Night
+ID: gita_chapter_8_verse_18, Name: Manifestation and Annihilation of Living Entities
+ID: gita_chapter_8_verse_19, Name: Cyclic Manifestation and Dissolution of Beings
+ID: gita_chapter_8_verse_20, Name: The Eternal Unmanifest
+ID: gita_chapter_8_verse_21, Name: The Supreme Abode of Krishna
+ID: gita_chapter_8_verse_22, Name: Attaining the Supreme Personality of Godhead
+ID: gita_chapter_8_verse_23, Name: Times of Departure and Return
+ID: gita_chapter_8_verse_24, Name: Auspicious Time for Departure
+ID: gita_chapter_8_verse_25, Name: Return of Mystics After Death
+ID: gita_chapter_8_verse_26, Name: Two Paths After Death: Light and Darkness
+ID: gita_chapter_8_verse_27, Name: Devotees' Unwavering Devotion
+ID: gita_chapter_8_verse_28, Name: Superiority of Devotional Service

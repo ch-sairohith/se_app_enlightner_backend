@@ -1,0 +1,37 @@
+--- Review for Bhagavad Gita - Chapter 13 ---
+
+ID: gita_chapter_13_verse_1, Name: Arjuna's Inquiry about Nature, the Enjoyer, and Consciousness
+ID: gita_chapter_13_verse_2, Name: Krishna's Explanation of the Field and the Knower of the Field
+ID: gita_chapter_13_verse_3, Name: Krishna as the Knower in All Bodies
+ID: gita_chapter_13_verse_4, Name: Constituents and Influences of the Field of Activity
+ID: gita_chapter_13_verse_5, Name: Description of Knowledge in Vedic Literature
+ID: gita_chapter_13_verse_6, Name: Summary of the Field of Activities and its Interactions
+ID: gita_chapter_13_verse_7, Name: Further Components of the Field of Activities
+ID: gita_chapter_13_verse_8, Name: Qualities of a Knower of the Field
+ID: gita_chapter_13_verse_9, Name: Understanding the Illusions of Material Life
+ID: gita_chapter_13_verse_10, Name: Maintaining Equilibrium
+ID: gita_chapter_13_verse_11, Name: Unwavering Devotion to Krishna
+ID: gita_chapter_13_verse_12, Name: Seeking Solitude and Self-Realization
+ID: gita_chapter_13_verse_13, Name: The Knowable: Brahman and its Nature
+ID: gita_chapter_13_verse_14, Name: The All-Pervading Nature of the Supersoul
+ID: gita_chapter_13_verse_15, Name: The Paradoxical Nature of the Supersoul
+ID: gita_chapter_13_verse_16, Name: The Immanence and Transcendence of the Supreme Truth
+ID: gita_chapter_13_verse_17, Name: The Unified and Diffused Nature of the Supreme Being
+ID: gita_chapter_13_verse_18, Name: The Supreme Lord as the Source of Light and Knowledge
+ID: gita_chapter_13_verse_19, Name: Understanding the Field of Activities, Knowledge, and the Knowable
+ID: gita_chapter_13_verse_20, Name: The Beginningless Nature of Material Nature and Living Entities
+ID: gita_chapter_13_verse_21, Name: Material Nature and the Living Entity as Instruments
+ID: gita_chapter_13_verse_22, Name: The Living Entity's Enjoyment of Material Nature's Modes
+ID: gita_chapter_13_verse_23, Name: The Supersoul as Overseer and Supreme Enjoyer
+ID: gita_chapter_13_verse_24, Name: Liberation through Understanding Material Nature
+ID: gita_chapter_13_verse_25, Name: Paths to Self-Realization
+ID: gita_chapter_13_verse_26, Name: Transcendence through Hearing
+ID: gita_chapter_13_verse_27, Name: The Creation of Living Beings
+ID: gita_chapter_13_verse_28, Name: Seeing the Supersoul and the Soul's Indestructibility
+ID: gita_chapter_13_verse_29, Name: Equanimity and the Transcendental Destination
+ID: gita_chapter_13_verse_30, Name: Recognizing the Body's Actions and the Self's Inaction
+ID: gita_chapter_13_verse_31, Name: Attaining Brahman Consciousness Through Unified Vision
+ID: gita_chapter_13_verse_32, Name: The Eternal and Unchanging Nature of the Paramatma
+ID: gita_chapter_13_verse_33, Name: The Soul's Non-Attachment to the Body
+ID: gita_chapter_13_verse_34, Name: The Soul Illuminates the Body
+ID: gita_chapter_13_verse_35, Name: Understanding the Difference Between Body and Soul Leads to Liberation

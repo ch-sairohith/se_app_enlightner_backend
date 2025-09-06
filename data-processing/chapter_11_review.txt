@@ -1,0 +1,56 @@
+--- Review for Bhagavad Gita - Chapter 11 ---
+
+ID: gita_chapter_11_verse_1, Name: Arjuna's Dispelling of Illusion
+ID: gita_chapter_11_verse_2, Name: Arjuna's Understanding of Appearance and Disappearance
+ID: gita_chapter_11_verse_3, Name: Arjuna's Desire to See Krishna's Universal Form
+ID: gita_chapter_11_verse_4, Name: Arjuna's Request to See Krishna's Cosmic Form
+ID: gita_chapter_11_verse_5, Name: Krsna Reveals His Universal Form
+ID: gita_chapter_11_verse_6, Name: Manifestations of Deities
+ID: gita_chapter_11_verse_7, Name: The Universe in Krsna's Body
+ID: gita_chapter_11_verse_8, Name: Divine Vision Granted
+ID: gita_chapter_11_verse_9, Name: Krsna Shows His Supreme Form
+ID: gita_chapter_11_verse_10, Name: Arjuna's Vision of Krishna's Universal Form: Multiple Mouths and Eyes
+ID: gita_chapter_11_verse_11, Name: Arjuna's Vision of Krishna's Universal Form: Limitless Manifestations
+ID: gita_chapter_11_verse_12, Name: Arjuna's Vision of Krishna's Universal Form: Brilliance Compared to Thousands of Suns
+ID: gita_chapter_11_verse_13, Name: Arjuna's Vision of Krishna's Universal Form: Containing the Entire Universe
+ID: gita_chapter_11_verse_14, Name: Arjuna's Reaction to Krishna's Universal Form: Wonder and Obeisance
+ID: gita_chapter_11_verse_15, Name: Arjuna's Description of Krishna's Universal Form: Deities and Beings Within
+ID: gita_chapter_11_verse_16, Name: Arjuna's Vision of Krishna's Universal Form: Limitless Extent
+ID: gita_chapter_11_verse_17, Name: Arjuna's Vision of Krishna's Universal Form: Glaring Effulgence
+ID: gita_chapter_11_verse_18, Name: Arjuna's Vision of Krishna's Universal Form: Supreme Being
+ID: gita_chapter_11_verse_19, Name: Arjuna's Vision of Krishna's Universal Form: Origin and Radiance
+ID: gita_chapter_11_verse_20, Name: Arjuna's Vision of Krishna's Universal Form: Pervasive Presence and Impact
+ID: gita_chapter_11_verse_21, Name: Arjuna's Vision of Krishna's Universal Form: Reaction of Demigods
+ID: gita_chapter_11_verse_22, Name: Demigods Witnessing Krishna's Universal Form
+ID: gita_chapter_11_verse_23, Name: Arjuna's Fear at Krishna's Form
+ID: gita_chapter_11_verse_24, Name: Arjuna's Loss of Equilibrium
+ID: gita_chapter_11_verse_25, Name: Arjuna's Plea for Mercy
+ID: gita_chapter_11_verse_26, Name: Warriors Entering Krishna's Mouths
+ID: gita_chapter_11_verse_27, Name: Warriors Crushed by Krishna's Teeth
+ID: gita_chapter_11_verse_28, Name: Warriors Perishing Like Rivers Flowing into the Ocean
+ID: gita_chapter_11_verse_29, Name: Warriors Perishing Like Moths Drawn to a Flame
+ID: gita_chapter_11_verse_30, Name: Lord Krishna's Devouring Form and Cosmic Power
+ID: gita_chapter_11_verse_31, Name: Arjuna's Inquiry about Krishna's Fierce Form
+ID: gita_chapter_11_verse_32, Name: Krishna's Identity as Time, the Destroyer
+ID: gita_chapter_11_verse_33, Name: Arjuna's Role as Instrument of Divine Will
+ID: gita_chapter_11_verse_34, Name: The Predetermined Defeat of the Kaurava Warriors
+ID: gita_chapter_11_verse_36, Name: The World's Reaction to Krishna's Glories
+ID: gita_chapter_11_verse_37, Name: Krishna's Supremacy Over Brahma and All Others
+ID: gita_chapter_11_verse_38, Name: Krishna as the Ultimate Refuge and Knower
+ID: gita_chapter_11_verse_39, Name: Arjuna's Multiple Salutations to Krishna
+ID: gita_chapter_11_verse_40, Name: Arjuna's Obeisances to Krishna's All-Pervasiveness
+ID: gita_chapter_11_verse_41, Name: Arjuna's Apology for Informal Address of Krishna
+ID: gita_chapter_11_verse_42, Name: Arjuna's Continued Apology for Disrespect
+ID: gita_chapter_11_verse_43, Name: Arjuna's Exaltation of Krishna's Supreme Position
+ID: gita_chapter_11_verse_44, Name: Arjuna's Humble Submission and Plea for Mercy
+ID: gita_chapter_11_verse_45, Name: Arjuna's Reaction to the Universal Form
+ID: gita_chapter_11_verse_46, Name: Arjuna's Request to See Krishna's Four-Armed Form
+ID: gita_chapter_11_verse_47, Name: Krishna Explains the Revelation of His Universal Form
+ID: gita_chapter_11_verse_48, Name: The Uniqueness of Arjuna's Vision
+ID: gita_chapter_11_verse_49, Name: Arjuna's Reassurance After Seeing Krishna's Universal Form
+ID: gita_chapter_11_verse_50, Name: Krishna's Restoration of His Four-Armed and Two-Armed Forms
+ID: gita_chapter_11_verse_51, Name: Arjuna's Pacified Mind After Seeing Krishna's Human-Like Form
+ID: gita_chapter_11_verse_52, Name: Krishna's Statement on the Difficulty of Seeing His True Form
+ID: gita_chapter_11_verse_53, Name: Inability to See Krishna's Form Through Ordinary Means
+ID: gita_chapter_11_verse_54, Name: Understanding Krishna Through Unwavering Devotion
+ID: gita_chapter_11_verse_55, Name: Qualities of a Devotee
